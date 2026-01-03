@@ -1,4 +1,14 @@
 streamlit
+torch
+transformers
+accelerate
+matplotlib  # ADD THIS
+numpy
+pandas
+scikit-learn
+joblib
+openpyxl  # for .xlsx
+streamlit
 transformers
 torch
 scikit-learn
